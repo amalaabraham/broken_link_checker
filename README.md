@@ -13,8 +13,11 @@
 
 3. **Running the scrawler**
 
+For eg,
+  ```
+scrapy runspider script.py -a url=https://sachsom95.github.io/swift-megaminds-portfolio/
+
  ```
- scrapy runspider script.py -o report-file.csv
- ```
+
 
  4. During the execution of the crawler the report-file.csv will be populated.
